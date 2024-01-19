@@ -57,7 +57,7 @@ More [screenshots](https://github.com/mhdrare/Shovee-Frontend/blob/master/SCREEN
 </a>
 
 ## Related Project (Backend)
-* [Shopee Clone RESTful API](https://github.com/mhdrare/Shovee-Backend.git)
+* [Shopee Clone RESTful API](https://github.com/FriendForever115/Shovee-Backend.git)
 
 ## Trello
 You can see the Trello for this project [`here`](https://trello.com/b/S0QGohuL/shopee-clone)
